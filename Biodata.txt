@@ -3,6 +3,6 @@ NPM 	: 140810160048
 TTL	: Bandung,18 Nov 1998
 Hobby	: Kalkulus
 
-Nama 	: Vega
-NPM	: 140810160048
+Nama 	: Shofiyyah Nadhiroh
+NPM	: 140810160057
 
