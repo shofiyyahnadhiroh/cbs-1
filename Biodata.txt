@@ -1,2 +1,5 @@
 Nama 	: Baby Cattleya Gustina Permatagama
 NPM 	: 140810160048
+
+Nama 	: Vega
+NPM	: 140810160048
